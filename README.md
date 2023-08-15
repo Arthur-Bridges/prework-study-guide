@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide that accustoms oneself with GoogleDev, HTML, CSS, Git, and JavaScript.
+The reason I built this webpage was to familiarize myself with HTML, Git, CSS, and Javascript. As well as, incorporating each and every utility within a single webpage. 
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+To use this webpage please click on the link, "https://killorr.github.io/prework-study-guide/". 
 
 ## Credits
 
